@@ -282,7 +282,7 @@ python notebooks/phase3_modeling.py
 **Isfaque Ansari** — Aspiring Data Scientist
 📧 isfaq.ans@gmail.com
 🔗 [LinkedIn](https://linkedin.com/in/isfaque-ansari-/)
-🐙 [GitHub](https://github.com/Lifewidata)
+🐙 [GitHub](https://github.com/Lifewitdata)
 
 ---
 
