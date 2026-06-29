@@ -256,24 +256,6 @@ python notebooks/phase3_modeling.py
 
 ---
 
-## 📋 Resume Bullets
-
-```
-• Built end-to-end player churn prediction pipeline for 40,000+
-  gaming records using SQL (SQLite), Python (pandas, scikit-learn),
-  achieving AUC-ROC of 0.9371 with Random Forest classifier
-
-• Engineered 3 behavioral features from raw session data; the top
-  engineered feature (sessions × duration) accounted for 49.24% of
-  Random Forest feature importance — outperforming all original features
-
-• Applied Welch's t-test and chi-square testing across 4 hypotheses;
-  identified session frequency (Δ = 6.7 sessions/week, p < 0.001) as
-  the strongest statistically significant predictor of player churn
-
-• Resolved 2.88:1 class imbalance using SMOTE on training data only,
-  improving churned-player recall from 61% to 89.7%
-```
 
 ---
 
